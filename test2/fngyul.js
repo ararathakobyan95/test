@@ -1,1 +1,10 @@
 console.clear();
+console.clear();
+console.clear();
+console.clear();
+console.clear();
+console.clear();
+console.clear();
+console.clear();
+console.clear();
+console.clear();
